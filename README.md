@@ -11,7 +11,7 @@ Using Edge Detection > PCA > FDA
 
 <img src="https://github.com/Yakagai17/Cat_Dog_Classification/blob/master/metod.JPG?" alt="Illustration" width="415px"/>
 ==============================================================<br>
-# Files 
+# Files <br>
 ==============================================================<br>
 With Wavelet 
 

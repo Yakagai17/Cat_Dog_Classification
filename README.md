@@ -8,7 +8,7 @@ This classification using Edge detection with 2 different method 2-D Discrete Ha
 
 Using Edge Detection > PCA > FDA
 
-https://github.com/Yakagai17/Cat_Dog_Classification/blob/master/metod.JPG
+metod.JPG
 ==============================================================
 Files 
 ==============================================================

@@ -1,6 +1,7 @@
-# Cat_Dog_Classification
+# Cat Dog Classification
 
-Note : I just edit small detail about the code, original owner and maker code by "HYO JIN CHUNG AND MINH N. TRAN" from their Paper with Title "IMAGE RECOGNITION FOR CATS AND DOGS"
+*Note : I just edit small detail about the code, original owner and maker code by "HYO JIN CHUNG AND MINH N. TRAN" from their Paper with Title "IMAGE RECOGNITION FOR CATS AND DOGS"*
+
 Link : http://web.csulb.edu/~jchang9/m521/m695_sp10_FinalReport_Minh_Angela.pdf
 
 
@@ -8,7 +9,7 @@ This classification using Edge detection with 2 different method 2-D Discrete Ha
 
 Using Edge Detection > PCA > FDA
 
-metod.JPG
+<img src="https://github.com/Yakagai17/Cat_Dog_Classification/blob/master/metod.JPG?" alt="Illustration" width="415px"/>
 ==============================================================
 Files 
 ==============================================================

@@ -10,9 +10,9 @@ This classification using Edge detection with 2 different method 2-D Discrete Ha
 Using Edge Detection > PCA > FDA
 
 <img src="https://github.com/Yakagai17/Cat_Dog_Classification/blob/master/metod.JPG?" alt="Illustration" width="415px"/>
-==============================================================
-Files 
-==============================================================
+==============================================================<br>
+# Files 
+==============================================================<br>
 With Wavelet 
 
 Main Program 
@@ -29,7 +29,7 @@ Workflow
 1. test_load_exc.m
 2. test_load_exc.m manggil waveFDA.m 
 2. waveFDA.m  manggil wavelet.m dan FDA.m
-==============================================================
+==============================================================<br>
 With Lapician Filter
 
 Main Program 

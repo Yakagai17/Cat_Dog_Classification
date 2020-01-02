@@ -14,7 +14,7 @@ Using Edge Detection > PCA > FDA
 # Files <br>
 ==============================================================<br>
 <b>With Wavelet</b> 
-
+<br><br>
 Main Program 
  
 1. test_cat_dog_1.m
@@ -29,6 +29,8 @@ Workflow
 1. test_load_exc.m
 2. test_load_exc.m manggil waveFDA.m 
 2. waveFDA.m  manggil wavelet.m dan FDA.m
+
+<br><br>
 ==============================================================<br>
 <b>With Lapician Filter</b> 
 
